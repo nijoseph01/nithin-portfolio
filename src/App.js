@@ -138,9 +138,13 @@ const Portfolio = () => {
               <a href="#contact" className="bg-mule hover:bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold transition flex items-center gap-2">
                 <Mail size={20} /> Hire Me
               </a>
-              <button className="border border-white hover:bg-white hover:text-slate-900 text-white px-6 py-3 rounded-lg font-semibold transition flex items-center gap-2">
-                <Download size={20} /> Download Resume
-              </button>
+<a 
+  href="resume.pdf" 
+  download="Nithin_Joseph_Resume.pdf"
+  className="border border-white hover:bg-white hover:text-slate-900 text-white px-6 py-3 rounded-lg font-semibold transition flex items-center gap-2"
+>
+  <Download size={20} /> Download Resume
+</a>
             </div>
           </div>
         </div>
