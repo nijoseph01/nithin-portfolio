@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nithin-portfolio/static/css/main.438a6916.css",
-    "main.js": "/nithin-portfolio/static/js/main.8193a604.js",
+    "main.js": "/nithin-portfolio/static/js/main.64e95698.js",
     "static/js/453.02ca8442.chunk.js": "/nithin-portfolio/static/js/453.02ca8442.chunk.js",
     "index.html": "/nithin-portfolio/index.html",
     "main.438a6916.css.map": "/nithin-portfolio/static/css/main.438a6916.css.map",
-    "main.8193a604.js.map": "/nithin-portfolio/static/js/main.8193a604.js.map",
+    "main.64e95698.js.map": "/nithin-portfolio/static/js/main.64e95698.js.map",
     "453.02ca8442.chunk.js.map": "/nithin-portfolio/static/js/453.02ca8442.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.438a6916.css",
-    "static/js/main.8193a604.js"
+    "static/js/main.64e95698.js"
   ]
 }
